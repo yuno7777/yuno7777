@@ -4,7 +4,12 @@
 - 💞️ UwU
 - 📫 How to reach me discord id - Kirishima#7777
 
-<!---
-Kirishima7777/Kirishima7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![](https://discord.c99.nl/widget/theme-2/497770611578503261.png)](https://discord.gg/75tGbKyNzH)
+
+Languages - 
+🖥️ Javascript
+💻 HTML/CSS
+🐍 Python
+
+[discord]: https://discord.gg/75tGbKyNzH
