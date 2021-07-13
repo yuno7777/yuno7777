@@ -5,7 +5,7 @@
 - 📫 How to reach me discord id - Kirishima#7777
 
 
-[![](https://discord.c99.nl/widget/theme-2/497770611578503261.png)](https://discord.gg/75tGbKyNzH)
+[![](https://discord.c99.nl/widget/theme-3/497770611578503261.png)](https://discord.gg/75tGbKyNzH)
 
 Languages - 
 🖥️ Javascript
