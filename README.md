@@ -8,8 +8,8 @@
 [![](https://discord.c99.nl/widget/theme-3/497770611578503261.png)](https://discord.gg/75tGbKyNzH)
 
 Languages - 
-🖥️ Javascript
-💻 HTML/CSS
-🐍 Python
+- 🖥️ Javascript
+- 💻 HTML/CSS
+- 🐍 Python
 
 [discord]: https://discord.gg/75tGbKyNzH
