@@ -22,20 +22,25 @@ I’m an Information Technology student at Atharva College of Engineering (Mumba
 
 ## Projects
 
-###  Gemstone Price Prediction
-Developed an end to end ML pipeline with feature engineering and XGBoost regression.
+###  Gemstone Price Prediction:
 
-###  Image Classification with CNNs 
-Designed and trained convolutional neural networks for multi-class image recognition and implemented transfer learning and deployed with Docker
+- Developed an end to end ML pipeline with feature engineering and XGBoost regression.
 
-###  Anomaly Detection Project  
-Implemented outlier detection on datasetsusing Isolation Forest and DBSCAN, demonstrating expertise in unsupervised learning and data analysis for applications like fraud detection and system monitoring
+###  Image Classification with CNNs: 
 
-###  Air Quality Forecasting & Health Risk Analysis (India)
-Air quality forecasting system for Indian cities using time series and machine learning models (ARIMA, XGBoost), with AQI classification, WHO inspired health risk estimation, and a Streamlit dashboard for visualization.
+- Designed and trained convolutional neural networks for multi-class image recognition and implemented transfer learning and deployed with Docker
 
-###  Drug Side-Effects Mining and Prediction
-Developed a machine learning system for drug side-effect prediction, involving dataset preprocessing, feature engineering, and model training to identify potential adverse reactions and support safer healthcare decisions.
+###  Anomaly Detection Project:
+
+- Implemented outlier detection on datasetsusing Isolation Forest and DBSCAN, demonstrating expertise in unsupervised learning and data analysis for applications like fraud detection and system monitoring
+
+###  Air Quality Forecasting & Health Risk Analysis (India):
+
+- Air quality forecasting system for Indian cities using time series and machine learning models (ARIMA, XGBoost), with AQI classification, WHO inspired health risk estimation, and a Streamlit dashboard for visualization.
+
+###  Drug Side-Effects Mining and Prediction:
+
+- Developed a machine learning system for drug side-effect prediction, involving dataset preprocessing, feature engineering, and model training to identify potential adverse reactions and support safer healthcare decisions.
 
 ---
 
