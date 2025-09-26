@@ -7,47 +7,44 @@ I’m an Information Technology student at Atharva College of Engineering (Mumba
 ## Skills & Technologies
 
 **Machine Learning & Data Analysis**  
-- Supervised Learning, Gradient Descent, Model Evaluation  
-- Neural Networks, TensorFlow  
-- Pandas, NumPy, Matplotlib, Data Visualization  
+- Supervised Learning, Unsupervised Learning, Gradient Descent, Model Evaluation, Regression Classification  
+- Neural Networks, TensorFlow, Ensemble Methods  
+- Pandas, NumPy, Matplotlib, Data Visualization, Seaborn, Scikit-learn  
 
 **Software Development**  
-- Languages: Python, TypeScript, JavaScript (React.js, Next.js), Java  
+- Languages: Python, JavaScript , TypeScript, Java , C++
+- MLOps & Deployment: Docker, Git/GitHub, MLflow, BentoML, Cloud (AWS, Azure), Streamlit, Flask  
 - Databases: MySQL, MongoDB  
 - Tools: Git, Microsoft Office Suite  
-- Strong debugging & troubleshooting skills  
-
-**Cybersecurity**  
-- Vulnerability Analysis, Threat Detection, SIEM Tools  
-- Completed multiple security simulations and training programs
+- Strong debugging & troubleshooting skills
 
 ---
 
 ## Projects
 
-###  AI-Based Research Tool  
-An intelligent automation tool that generates research reports using machine learning.
+###  Gemstone Price Prediction
+Developed an end to end ML pipeline with feature engineering and XGBoost regression.
 
-###  Login Guard AI  
-AI-powered behavioral authentication system to detect and block suspicious logins.
+###  Image Classification with CNNs 
+Designed and trained convolutional neural networks for multi-class image recognition and implemented transfer learning and deployed with Docker
 
-###  Dental Book  
-A dark-themed offline desktop app for dental clinics to manage patient records and billing.  
-Tech Stack: TypeScript, CSS
+###  Anomaly Detection Project  
+Implemented outlier detection on datasetsusing Isolation Forest and DBSCAN, demonstrating expertise in unsupervised learning and data analysis for applications like fraud detection and system monitoring
 
-###  Cybersecurity Reports Repository  
-[🔗 GitHub Repo](https://github.com/yuno7777/cybersecurity)  
-A collection of security research, documentation, and simulations. Includes vulnerability analyses, threat detection reports, and notes from practical cybersecurity labs and platforms like TryHackMe and Forage.
+###  Air Quality Forecasting & Health Risk Analysis (India)
+Air quality forecasting system for Indian cities using time series and machine learning models (ARIMA, XGBoost), with AQI classification, WHO inspired health risk estimation, and a Streamlit dashboard for visualization.
+
+###  Drug Side-Effects Mining and Prediction
+Developed a machine learning system for drug side-effect prediction, involving dataset preprocessing, feature engineering, and model training to identify potential adverse reactions and support safer healthcare decisions.
 
 ---
 
 ##  Certifications
 
-- Google Machine Learning Crash Course – Google Developers  
-- Google Cybersecurity Certificate – Coursera  
-- Mastercard Cybersecurity Simulation – Forage (July 2025)  
-- TryHackMe SOC Level 1  
-- Full Stack Web Development – Udemy  
+- Data Science, Machine Learning, Deep Learning & NLP Bootcamp (Udemy)
+- AI Engineer Course 2025: Complete AI Engineer Bootcamp (Udemy)
+- 100 Days of Code: The Complete Python Pro Bootcamp (Udemy)
+- Google Machine Learning Crash Course (Google Developers)
 
 ---
 
@@ -60,4 +57,4 @@ A collection of security research, documentation, and simulations. Includes vuln
 
 ---
 
-⚡ *Currently exploring AI, cybersecurity, and full-stack development to build real-world impactful solutions.*
+*Currently exploring AI, Machine Learning , Data Analysis to build real-world impactful solutions.*
