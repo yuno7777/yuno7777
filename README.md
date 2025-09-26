@@ -4,7 +4,7 @@ I’m an Information Technology student at Atharva College of Engineering (Mumba
 
 ---
 
-## 🔧 Skills & Technologies
+## Skills & Technologies
 
 **Machine Learning & Data Analysis**  
 - Supervised Learning, Gradient Descent, Model Evaluation  
