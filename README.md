@@ -1,65 +1,70 @@
-# Hi, I'm Abhishek Satarkar
-
-I’m an Information Technology student at Atharva College of Engineering (Mumbai), passionate about building impactful software and intelligent systems.
-
----
-
-## Skills & Technologies
-
-**Machine Learning & Data Analysis**  
-- Supervised Learning, Unsupervised Learning, Gradient Descent, Model Evaluation, Regression Classification  
-- Neural Networks, TensorFlow, Ensemble Methods  
-- Pandas, NumPy, Matplotlib, Data Visualization, Seaborn, Scikit-learn  
-
-**Software Development**  
-- Languages: Python, JavaScript , TypeScript, Java , C++
-- MLOps & Deployment: Docker, Git/GitHub, MLflow, BentoML, Cloud (AWS, Azure), Streamlit, Flask  
-- Databases: MySQL, MongoDB  
-- Tools: Git, Microsoft Office Suite  
-- Strong debugging & troubleshooting skills
+# Hey, I’m **Abhishek Satarkar**
+Information Technology student at **Atharva College of Engineering, Mumbai**  
+Passionate about building impactful software and intelligent systems.
 
 ---
 
-## Projects
+### **Tech Stack**
 
-###  Gemstone Price Prediction:
-
-- Developed an end to end ML pipeline with feature engineering and XGBoost regression.
-
-###  Image Classification with CNNs: 
-
-- Designed and trained convolutional neural networks for multi-class image recognition and implemented transfer learning and deployed with Docker
-
-###  Anomaly Detection Project:
-
-- Implemented outlier detection on datasetsusing Isolation Forest and DBSCAN, demonstrating expertise in unsupervised learning and data analysis for applications like fraud detection and system monitoring
-
-###  Air Quality Forecasting & Health Risk Analysis:
-
-- Air quality forecasting system for Indian cities using time series and machine learning models (ARIMA, XGBoost), with AQI classification, WHO inspired health risk estimation, and a Streamlit dashboard for visualization.
-
-###  Drug Side Effects Mining and Prediction:
-
-- Developed a machine learning system for drug side effect prediction, involving dataset preprocessing, feature engineering, and model training to identify potential adverse reactions and support safer healthcare decisions.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
-##  Certifications
+## **Skills Overview**
 
-- Data Science, Machine Learning, Deep Learning & NLP Bootcamp (Udemy)
-- AI Engineer Course 2025: Complete AI Engineer Bootcamp (Udemy)
-- 100 Days of Code: The Complete Python Pro Bootcamp (Udemy)
-- Google Machine Learning Crash Course (Google Developers)
+### Machine Learning & Data Analysis
+- Supervised and Unsupervised Learning, Regression, Classification
+- Neural Networks, TensorFlow, XGBoost, Ensemble Methods
+- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Data Visualization
 
----
-
-##  Let's Connect!
-
-- 📧 abhisheksatarkar098@gmail.com  
-- 📍 Mumbai, India  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abhishek-satarkar-9742)  
-- 💻 [GitHub](https://github.com/yuno7777)
+### Software Development
+- **Languages:** Python, JavaScript, TypeScript, Java, C++
+- **MLOps & Deployment:** Docker, Git/GitHub, MLflow, Streamlit, Flask, AWS, Azure
+- **Databases:** MySQL, MongoDB
+- Strong debugging and problem-solving mindset
 
 ---
 
-*Currently exploring AI, Machine Learning , Data Analysis to build real-world impactful solutions.*
+## **Projects**
+
+- **Gemstone Price Prediction** – Built an end-to-end ML pipeline with feature engineering and XGBoost regression.
+- **Image Classification (CNNs)** – Trained CNNs with transfer learning and deployed using Docker.
+- **Anomaly Detection** – Implemented Isolation Forest and DBSCAN for outlier and fraud detection.
+- **Air Quality Forecasting** – Time series modeling (ARIMA, XGBoost) with a Streamlit dashboard for AQI and health risk insights.
+- **Drug Side Effects Prediction** – Developed ML models for adverse reaction prediction to support safer healthcare decisions.
+
+---
+
+## **Certifications**
+
+- Data Science, Machine Learning, Deep Learning & NLP Bootcamp – *Udemy*
+- AI Engineer Course 2025 – *Udemy*
+- 100 Days of Code: The Complete Python Pro Bootcamp – *Udemy*
+- Google Machine Learning Crash Course – *Google Developers*
+
+---
+
+## **Let’s Connect**
+
+**Email:** [abhisheksatarkar098@gmail.com](mailto:abhisheksatarkar098@gmail.com)  
+**Location:** Mumbai, India  
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/abhishek-satarkar-9742) 
+
+---
+
+*Currently exploring **AI, Machine Learning, and Data Analysis** to build real-world impactful solutions.*
