@@ -38,9 +38,9 @@ I’m an Information Technology student at Atharva College of Engineering (Mumba
 
 - Air quality forecasting system for Indian cities using time series and machine learning models (ARIMA, XGBoost), with AQI classification, WHO inspired health risk estimation, and a Streamlit dashboard for visualization.
 
-###  Drug Side-Effects Mining and Prediction:
+###  Drug Side Effects Mining and Prediction:
 
-- Developed a machine learning system for drug side-effect prediction, involving dataset preprocessing, feature engineering, and model training to identify potential adverse reactions and support safer healthcare decisions.
+- Developed a machine learning system for drug side effect prediction, involving dataset preprocessing, feature engineering, and model training to identify potential adverse reactions and support safer healthcare decisions.
 
 ---
 
