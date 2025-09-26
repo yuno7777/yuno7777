@@ -34,7 +34,7 @@ I’m an Information Technology student at Atharva College of Engineering (Mumba
 
 - Implemented outlier detection on datasetsusing Isolation Forest and DBSCAN, demonstrating expertise in unsupervised learning and data analysis for applications like fraud detection and system monitoring
 
-###  Air Quality Forecasting & Health Risk Analysis (India):
+###  Air Quality Forecasting & Health Risk Analysis:
 
 - Air quality forecasting system for Indian cities using time series and machine learning models (ARIMA, XGBoost), with AQI classification, WHO inspired health risk estimation, and a Streamlit dashboard for visualization.
 
