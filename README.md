@@ -4,13 +4,13 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E_Information_Technology-Atharva_College_of_Engineering-00D9FF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/B.E_Information_Technology-Atharva_College_of_Engineering-0891b2?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Mumbai,_India-Graduating_2027-444444?style=flat-square&labelColor=0d1117" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aetherflows.online-00D9FF?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)](https://aetherflows.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aetherflows.online-0891b2?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)](https://aetherflows.online)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/abhishek-satarkar-9742)
 &nbsp;
@@ -203,6 +203,6 @@ CyberSecurity Intern        Elevate Labs    Aug 2025 – Sep 2025
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open_to-Internships_%C2%B7_Collaborations_%C2%B7_Freelance-00D9FF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open_to-Internships_%C2%B7_Collaborations_%C2%B7_Freelance-0891b2?style=flat-square&labelColor=0d1117" />
 
 </div>
