@@ -1,191 +1,238 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Abhishek+Satarkar;AI+%2F+ML+Engineer+%C2%B7+Full-Stack+Builder;Agentic+systems%2C+shipped." alt="Typing SVG" />
+# abhishek satarkar
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=ai%2Fml+engineer+%C2%B7+systems+builder;llm+agents+%C2%B7+rag+%C2%B7+inference;researching+machine+intelligence;building+towards+human-like+machine+intelligence" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E_Information_Technology-Atharva_College_of_Engineering-0891b2?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Mumbai,_India-Graduating_2027-444444?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ai%2Fml-111111?style=flat-square&labelColor=000000&color=ffffff"/>
+<img src="https://img.shields.io/badge/llm%20agents-111111?style=flat-square&labelColor=000000&color=ffffff"/>
+<img src="https://img.shields.io/badge/systems-111111?style=flat-square&labelColor=000000&color=ffffff"/>
+<img src="https://img.shields.io/badge/research-111111?style=flat-square&labelColor=000000&color=ffffff"/>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-moonlitstudio.online-0891b2?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)](https://moonlitstudio.online)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/abhishek-satarkar-9742)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-abhisheksatarkar098@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:abhisheksatarkar098@gmail.com)
+<a href="https://moonlitstudio.online">portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-satarkar-9742">linkedin</a>
+&nbsp;·&nbsp;
+<a href="mailto:abhisheksatarkar098@gmail.com">email</a>
 
 </div>
 
+---
+
+## about
+
+ai/ml engineer building around **llms, agents, retrieval, systems, security, and inference**.
+
+i like taking ideas from model-level experiments to actual working software.
+
+currently pursuing a **b.e. in information technology** and working toward an **ms in ai/ml**.
+
 <br/>
+
+`python` `pytorch` `rust` `c++` `typescript` `next.js` `fastapi`
 
 ---
 
-```python
-abhishek = {
-    "role"      : "AI/ML Engineer  ·  Full-Stack Builder",
-    "focus"     : ["LLM Agents", "Fine-Tuning & Interpretability", "Agentic Security", "End-to-End AI Systems"],
-    "stack"     : ["Python", "Next.js 15", "FastAPI", "TypeScript", "Rust"],
-    "currently" : "Semester 6  ·  B.E Information Technology",
-    "learning"  : "Mechanistic interpretability, quantized fine-tuning, agent orchestration",
-    "motto"     : "Don't just learn it. Ship it.",
-}
-```
-
-I build end-to-end AI systems — from model training and mechanistic interpretability to full-stack agentic products in production. Not just notebooks. Things that run.
-
-<br/>
-
----
-
-<br/>
-
-## Featured Builds
+## selected work
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**Project Black Monolith (AEOS Guard)**
+### [project black monolith](https://github.com/yuno7777/project-black-monolith)
 
-Unified agentic security middleware. Three modules — MCP-Shield (Rust), VectorAnchor (FastAPI + ChromaDB), and TraceAudit — feeding a live multi-module SSE event dashboard.
+defense-in-depth security middleware for autonomous ai agents.
 
-`Rust` `FastAPI` `ChromaDB` `Next.js` `SSE`
+protects tool integrity, retrieval memory, and reasoning streams through independent security layers.
+
+`rust` `fastapi` `next.js` `postgresql` `chromadb`
 
 </td>
+
 <td width="50%" valign="top">
 
-**Aether Analyst**
+### [aether analyst](https://github.com/yuno7777/aether-analyst)
 
-Autonomous ReAct agent platform for research and reporting. Streams live tool-use over SSE and generates structured PDF reports, deployed on AWS EC2.
+autonomous research and reporting system built around agentic workflows, tool use, structured outputs, and live streaming.
 
-`FastAPI` `Next.js 15` `Gemini` `AWS EC2`
+`fastapi` `next.js` `gemini`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-**Twitter/X Automation System**
+### [friday](https://github.com/yuno7777/friday-personal-ai-agent)
 
-Playwright-driven content agent with a human approval queue, live SSE logs, and a trend-intelligence module pulling from GitHub Trending, HackerNews, and Reddit. Runs on Qwen3 27B via Groq.
+modular ai voice assistant combining llm reasoning, mcp tooling, realtime voice, and system interaction.
 
-`Playwright` `FastAPI` `Next.js` `Groq`
+`python` `gemini` `fastmcp` `livekit`
 
 </td>
+
 <td width="50%" valign="top">
 
-**GrowthOS**
+### [luminary rag](https://github.com/yuno7777/luminary-rag)
 
-Agency-ops platform for digital marketing teams — Kanban campaign board, creative scoring, and a GEO/AI-search monitor, with brand-system tooling baked in.
+structure-aware hierarchical retrieval for large documents.
 
-`Next.js` `TypeScript` `dnd-kit`
+navigate the document structure first, then retrieve the relevant passages.
+
+`python` `fastapi` `gemini` `numpy`
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### [twitter automation](https://github.com/yuno7777/twitter-automation)
+
+agent-driven browser and content automation with trend discovery, approval workflows, and live activity.
+
+`playwright` `fastapi` `next.js` `groq`
+
+</td>
+
+<td width="50%" valign="top">
+
+### [growthos](https://github.com/yuno7777/growth-os)
+
+full-stack agency operations platform combining campaign management, creative scoring, ai-search visibility, and workflow tooling.
+
+`next.js` `typescript` `react`
+
+</td>
+
 </tr>
 </table>
 
-<br/>
-
 ---
 
-<br/>
-
-## Research
-
-Independent research work spanning safety, efficiency, and interpretability — designed as resumable, manifest-driven pipelines for constrained compute (Colab T4, fp16).
-
-| Project | Focus |
-|---|---|
-| **Jailbreak Decay** | Durability of safety training across a 32-run grid on Llama 3.2 1B (JailbreakBench) |
-| **KV-Cache Autopsy** | Benchmarking 5 inference-time optimizations with strict timing hygiene |
-| **Where Does Alignment Live** | Mechanistic interpretability — weight diffs, activation patching, linear probes (TransformerLens) |
-
-Also completed a full **QLoRA fine-tune of Qwen3 4B** on a local RTX 4060, with a focus on overfitting prevention (1-epoch runs, dropout tuning, validation-loss tracking).
-
-<br/>
-
----
-
-<br/>
-
-## Tech Stack
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0d1117)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0d1117)
-
-**Full-Stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d1117)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
-
-**Backend / Systems**
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=0d1117)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0d1117)
-
-**Cloud / Infra / Databases**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0d1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3D3D3D?style=flat-square&labelColor=0d1117&logoColor=white)
-
-<br/>
-
----
-
-<br/>
-
-## Now
-
-- 🔬 Running independent research at **Sleepers Research** — safety, interpretability, and inference efficiency
-- 🛡️ Building out **Project Black Monolith**, an agentic runtime security stack
-- 🎓 Final-year B.E, prepping for an MS in AI/ML abroad (2027 intake)
-- ♟️ Off-screen: speedsolving, chess, and recreational math
+## research
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/yuno7777?style=flat-square&labelColor=0d1117&color=0891b2)
+**safety · interpretability · inference · fine-tuning · agent security**
 
 </div>
 
 <br/>
 
+| area | focus |
+|:---|:---|
+| **safety** | jailbreak durability · robustness · alignment behavior |
+| **interpretability** | activation patching · linear probes · representation analysis |
+| **inference** | kv-cache behavior · quantization · optimization |
+| **fine-tuning** | qlora · efficient adaptation · overfitting |
+| **agent security** | tool integrity · retrieval poisoning · reasoning protection |
+
+<br/>
+
+`jailbreak decay` · `kv-cache autopsy` · `where does alignment live` · `qwen qlora`
+
 ---
 
-<br/>
+## stack
 
-## Certifications
+<div align="center">
 
-| Issuer | Certifications |
-|---|---|
-| OpenAI Academy | AI Foundations · Applied AI Foundations · Agents & Workflows |
-| Google | ML Crash Course · Kaggle AI Agents Course |
-| AWS | Cloud Practitioner Essentials (EC2, S3, RDS, IAM, CloudWatch) |
-| IBM | Quantum Computing Fundamentals |
-| Forage | J.P. Morgan (SWE + Quant Research) · Electronic Arts SWE · Quantium Data Analytics · Tata GenAI Data Analytics |
+**ai / ml**
+
+`python` · `pytorch` · `tensorflow` · `scikit-learn` · `transformers`
 
 <br/>
+
+**systems**
+
+`rust` · `c++` · `fastapi` · `postgresql` · `redis`
+
+<br/>
+
+**full stack**
+
+`typescript` · `next.js` · `react` · `tailwind`
+
+<br/>
+
+**infrastructure**
+
+`aws` · `docker` · `vercel` · `supabase` · `git`
+
+</div>
+
+---
+
+## github
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yuno7777&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuno7777&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=777777&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuno7777&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuno7777&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuno7777&bg_color=000000&color=999999&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=contribution%20activity" />
+
+</div>
+
+---
+
+## contribution graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuno7777/yuno7777/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuno7777/yuno7777/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yuno7777/yuno7777/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## currently
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2600&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=building+agentic+systems;researching+model+behavior;going+deeper+into+rust+and+systems;shipping+ai+products;learning+something+new+every+day" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open_to-Internships_%C2%B7_Collaborations_%C2%B7_Research-0891b2?style=flat-square&labelColor=0d1117" />
+<sub>building towards human-like machine intelligence.</sub>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1400&color=666666&center=true&vCenter=true&width=500&lines=build.;break.;understand.;repeat." />
 
 </div>
