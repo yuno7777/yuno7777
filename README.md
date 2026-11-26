@@ -25,9 +25,9 @@
 
 ## about
 
-ai/ml engineer building around **llms, agents, retrieval, systems, security, and inference**.
+ai/ml engineer interested in **model architecture, inference engines, autonomous agents, and systems engineering**.
 
-i like taking ideas from model-level experiments to actual working software.
+i build across the stack, from low-level rust inference and model experiments to distributed execution and ml infrastructure.
 
 currently pursuing a **b.e. in information technology** and working toward an **ms in ai/ml**.
 
@@ -44,49 +44,45 @@ currently pursuing a **b.e. in information technology** and working toward an **
 
 <td width="50%" valign="top">
 
+### [ferrite](https://github.com/yuno7777/ferrite)
+
+dependency-free rust inference engine for gguf models, with native quantization kernels, simd and memory-mapped weights.
+
+`rust` `gguf` `simd`
+
+</td>
+
+<td width="50%" valign="top">
+
+### [looped hybrid qwen](https://github.com/yuno7777/looped-qwen35-visual-sre)
+
+experimental 0.8b multimodal model for visual incident triage, exploring recurrent computation, reinforcement learning and kv-cache compression.
+
+`pytorch` `qwen` `rlvr` `cuda`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### [project black monolith](https://github.com/yuno7777/project-black-monolith)
 
-defense-in-depth security middleware for autonomous ai agents.
+defense-in-depth middleware for agent tool integrity, retrieval memory and reasoning protection.
 
-protects tool integrity, retrieval memory, and reasoning streams through independent security layers.
-
-`rust` `fastapi` `next.js` `postgresql` `chromadb`
+`rust` `python` `next.js`
 
 </td>
 
 <td width="50%" valign="top">
 
-### [aether analyst](https://github.com/yuno7777/aether-analyst)
+### [swarm platform](https://github.com/yuno7777/swarm-platform)
 
-autonomous research and reporting system built around agentic workflows, tool use, structured outputs, and live streaming.
+rust multi-agent execution prototype with task dags, scheduling, retries, event streaming and journal-based crash recovery.
 
-`fastapi` `next.js` `gemini`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### [friday](https://github.com/yuno7777/friday-personal-ai-agent)
-
-modular ai voice assistant combining llm reasoning, mcp tooling, realtime voice, and system interaction.
-
-`python` `gemini` `fastmcp` `livekit`
-
-</td>
-
-<td width="50%" valign="top">
-
-### [luminary rag](https://github.com/yuno7777/luminary-rag)
-
-structure-aware hierarchical retrieval for large documents.
-
-navigate the document structure first, then retrieve the relevant passages.
-
-`python` `fastapi` `gemini` `numpy`
+`rust` `async systems` `prometheus`
 
 </td>
 
@@ -96,21 +92,69 @@ navigate the document structure first, then retrieve the relevant passages.
 
 <td width="50%" valign="top">
 
-### [twitter automation](https://github.com/yuno7777/twitter-automation)
+### [atlas mlops](https://github.com/yuno7777/atlas-mlops)
 
-agent-driven browser and content automation with trend discovery, approval workflows, and live activity.
+self-hosted ml lifecycle platform for dataset validation, training, experiment tracking, model registration, inference and drift monitoring.
 
-`playwright` `fastapi` `next.js` `groq`
+`python` `mlflow` `celery` `fastapi`
 
 </td>
 
 <td width="50%" valign="top">
 
-### [growthos](https://github.com/yuno7777/growth-os)
+### [embodied worlds](https://github.com/yuno7777/embodied-ai)
 
-full-stack agency operations platform combining campaign management, creative scoring, ai-search visibility, and workflow tooling.
+research platform for evaluating ai policies in deterministic, partially observed simulated environments with reproducible trajectories.
 
-`next.js` `typescript` `react`
+`rust` `python` `next.js`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### [geostat](https://github.com/yuno7777/geostat)
+
+satellite-based flood mapping using sentinel-1 sar, u-net segmentation and geospatial road and building exposure analysis.
+
+`pytorch` `rasterio` `shapely` `fastapi`
+
+</td>
+
+<td width="50%" valign="top">
+
+### [learnflow ai](https://github.com/yuno7777/learnflow-ai)
+
+multi-tenant training platform with citation-backed retrieval, course generation, supervised grading and workflow automation.
+
+`next.js` `fastapi` `postgresql` `n8n`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### [kestrel](https://github.com/yuno7777/kestrel)
+
+streaming fraud detection platform with kafka ingestion, redis-backed behavioral features, ml inference and operational monitoring.
+
+`python` `kafka` `redis` `prometheus`
+
+</td>
+
+<td width="50%" valign="top">
+
+### [opticore](https://github.com/yuno7777/opticore)
+
+c++20 vehicle routing solver with capacity and time-window constraints, independent validation and reproducible or-tools comparisons.
+
+`c++20` `cmake` `or-tools`
 
 </td>
 
@@ -119,11 +163,23 @@ full-stack agency operations platform combining campaign management, creative sc
 
 ---
 
+## open source & other work
+
+- [sleepers code](https://github.com/yuno7777/sleeperscode) · an open-source fork of [t3 code](https://github.com/pingdotgg/t3code), adapted into a local-first workspace for coding agents.
+- [luminary rag](https://github.com/yuno7777/luminary-rag) · structure-aware hierarchical document retrieval.
+- [robo rl](https://github.com/yuno7777/robo-rl) · simulated autonomous robot navigation with ros 2, gazebo, slam and nav2.
+- [compute](https://github.com/yuno7777/compute-roadmap) · interactive computing curriculum from transistors to transformer inference.
+- [sleepers researcher](https://github.com/yuno7777/sleepers-researcher) · local-first desktop research agent with tool use and persistent retrieval memory.
+
+[all repositories](https://github.com/yuno7777?tab=repositories)
+
+---
+
 ## research
 
 <div align="center">
 
-**safety · interpretability · inference · fine-tuning · agent security**
+**model architecture · efficient inference · embodied intelligence · safety · interpretability**
 
 </div>
 
@@ -131,6 +187,8 @@ full-stack agency operations platform combining campaign management, creative sc
 
 | area | focus |
 |:---|:---|
+| **model architecture** | recurrent computation · multimodal models · efficient adaptation |
+| **embodied intelligence** | partial observability · policy evaluation · reproducible simulation |
 | **safety** | jailbreak durability · robustness · alignment behavior |
 | **interpretability** | activation patching · linear probes · representation analysis |
 | **inference** | kv-cache behavior · quantization · optimization |
@@ -138,6 +196,8 @@ full-stack agency operations platform combining campaign management, creative sc
 | **agent security** | tool integrity · retrieval poisoning · reasoning protection |
 
 <br/>
+
+[looped hybrid qwen experiments](https://github.com/yuno7777/looped-qwen35-visual-sre) · [embodied worlds](https://github.com/yuno7777/embodied-ai) · [ferrite](https://github.com/yuno7777/ferrite)
 
 `jailbreak decay` · `kv-cache autopsy` · `where does alignment live` · `qwen qlora`
 
@@ -167,7 +227,7 @@ full-stack agency operations platform combining campaign management, creative sc
 
 **infrastructure**
 
-`aws` · `docker` · `vercel` · `supabase` · `git`
+`aws` · `docker` · `kafka` · `mlflow` · `prometheus` · `vercel` · `supabase` · `git`
 
 </div>
 
@@ -179,7 +239,7 @@ full-stack agency operations platform combining campaign management, creative sc
 
 <img src="https://github-readme-stats.vercel.app/api?username=yuno7777&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuno7777&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=777777&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=yuno7777&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=777777&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="170"/>
 
 <br/><br/>
 
@@ -188,16 +248,6 @@ full-stack agency operations platform combining campaign management, creative sc
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuno7777&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuno7777&bg_color=000000&color=999999&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=contribution%20activity" />
 
 </div>
 
@@ -221,7 +271,7 @@ full-stack agency operations platform combining campaign management, creative sc
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2600&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=building+agentic+systems;researching+model+behavior;going+deeper+into+rust+and+systems;shipping+ai+products;learning+something+new+every+day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2600&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=building+native+inference+engines;experimenting+with+model+architectures;exploring+embodied+intelligence;engineering+distributed+agent+systems" />
 
 </div>
 
