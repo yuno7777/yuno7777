@@ -44,59 +44,11 @@ currently pursuing a **b.e. in information technology** and working toward an **
 
 <td width="50%" valign="top">
 
-### [ferrite](https://github.com/yuno7777/ferrite)
-
-dependency-free rust inference engine for gguf models, with native quantization kernels, simd and memory-mapped weights.
-
-`rust` `gguf` `simd`
-
-</td>
-
-<td width="50%" valign="top">
-
 ### [looped hybrid qwen](https://github.com/yuno7777/looped-qwen35-visual-sre)
 
 experimental 0.8b multimodal model for visual incident triage, exploring recurrent computation, reinforcement learning and kv-cache compression.
 
 `pytorch` `qwen` `rlvr` `cuda`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### [project black monolith](https://github.com/yuno7777/project-black-monolith)
-
-defense-in-depth middleware for agent tool integrity, retrieval memory and reasoning protection.
-
-`rust` `python` `next.js`
-
-</td>
-
-<td width="50%" valign="top">
-
-### [swarm platform](https://github.com/yuno7777/swarm-platform)
-
-rust multi-agent execution prototype with task dags, scheduling, retries, event streaming and journal-based crash recovery.
-
-`rust` `async systems` `prometheus`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### [atlas mlops](https://github.com/yuno7777/atlas-mlops)
-
-self-hosted ml lifecycle platform for dataset validation, training, experiment tracking, model registration, inference and drift monitoring.
-
-`python` `mlflow` `celery` `fastapi`
 
 </td>
 
@@ -116,11 +68,59 @@ research platform for evaluating ai policies in deterministic, partially observe
 
 <td width="50%" valign="top">
 
+### [atlas mlops](https://github.com/yuno7777/atlas-mlops)
+
+self-hosted ml lifecycle platform for dataset validation, training, experiment tracking, model registration, inference and drift monitoring.
+
+`python` `mlflow` `celery` `fastapi`
+
+</td>
+
+<td width="50%" valign="top">
+
 ### [geostat](https://github.com/yuno7777/geostat)
 
 satellite-based flood mapping using sentinel-1 sar, u-net segmentation and geospatial road and building exposure analysis.
 
 `pytorch` `rasterio` `shapely` `fastapi`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### [opticore](https://github.com/yuno7777/opticore)
+
+c++20 vehicle routing solver with capacity and time-window constraints, independent validation and reproducible or-tools comparisons.
+
+`c++20` `cmake` `or-tools`
+
+</td>
+
+<td width="50%" valign="top">
+
+### [kestrel](https://github.com/yuno7777/kestrel)
+
+streaming fraud detection platform with kafka ingestion, redis-backed behavioral features, ml inference and operational monitoring.
+
+`python` `kafka` `redis` `prometheus`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### [project black monolith](https://github.com/yuno7777/project-black-monolith)
+
+defense-in-depth middleware for agent tool integrity, retrieval memory and reasoning protection.
+
+`rust` `python` `next.js`
 
 </td>
 
@@ -140,21 +140,21 @@ multi-tenant training platform with citation-backed retrieval, course generation
 
 <td width="50%" valign="top">
 
-### [kestrel](https://github.com/yuno7777/kestrel)
+### [ferrite](https://github.com/yuno7777/ferrite)
 
-streaming fraud detection platform with kafka ingestion, redis-backed behavioral features, ml inference and operational monitoring.
+dependency-free rust inference engine for gguf models, with native quantization kernels, simd and memory-mapped weights.
 
-`python` `kafka` `redis` `prometheus`
+`rust` `gguf` `simd`
 
 </td>
 
 <td width="50%" valign="top">
 
-### [opticore](https://github.com/yuno7777/opticore)
+### [swarm platform](https://github.com/yuno7777/swarm-platform)
 
-c++20 vehicle routing solver with capacity and time-window constraints, independent validation and reproducible or-tools comparisons.
+rust multi-agent execution prototype with task dags, scheduling, retries, event streaming and journal-based crash recovery.
 
-`c++20` `cmake` `or-tools`
+`rust` `async systems` `prometheus`
 
 </td>
 
