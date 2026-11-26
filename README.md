@@ -18,6 +18,10 @@
 <a href="https://www.linkedin.com/in/abhishek-satarkar-9742">linkedin</a>
 &nbsp;·&nbsp;
 <a href="mailto:abhisheksatarkar098@gmail.com">email</a>
+&nbsp;·&nbsp;
+<a href="https://huggingface.co/kaii07">hugging face</a>
+&nbsp;·&nbsp;
+<a href="https://orcid.org/0009-0003-4847-3288">orcid</a>
 
 </div>
 
@@ -175,6 +179,37 @@ rust multi-agent execution prototype with task dags, scheduling, retries, event 
 
 ---
 
+## research outputs
+
+**looped hybrid qwen3.5 for visual sre incident triage**
+
+independent experimental work on a 0.8b multimodal model, exploring recurrent decoder computation, supervised fine-tuning, reinforcement learning with verifiable rewards, and vision-aware kv-cache quantization.
+
+[technical paper (pdf)](https://github.com/yuno7777/looped-qwen35-visual-sre/blob/main/docs/Looped_Hybrid_Qwen35_Visual_SRE_Paper.pdf) · [model weights (v2.1)](https://huggingface.co/kaii07/looped-qwen35-0.8b-visual-sre-v2.1) · [benchmark results](https://github.com/yuno7777/looped-qwen35-visual-sre/blob/main/HARD_BENCHMARK_RESULTS.md) · [engineering diary](https://github.com/yuno7777/looped-qwen35-visual-sre/blob/main/docs/Visual_SRE_Looped_Qwen35_Dev_Diary.pdf)
+
+---
+
+## experimental results
+
+| project | documented result | scope |
+|:---|:---|:---|
+| [looped qwen](https://github.com/yuno7777/looped-qwen35-visual-sre/blob/main/HARD_BENCHMARK_RESULTS.md) | stock 0% → v2.1 84% accuracy | 50 unseen visual sre dashboards, bf16, rtx 4060 8 gb |
+| [looped qwen](https://github.com/yuno7777/looped-qwen35-visual-sre/blob/main/HARD_BENCHMARK_RESULTS.md) | 3.93 → 4.88 tokens/s | fused deltanet kernels vs eager, 2 loops, 50 generated tokens |
+| [opticore](https://github.com/yuno7777/opticore#benchmark-results) | matched or-tools cost on 8- and 20-customer instances; 0.298% higher cost on 50 customers | three fixed routing instances; or-tools ran to its configured time limit |
+| [ferrite](https://github.com/yuno7777/ferrite/blob/main/docs/benchmarking.md) | q5_k kernel: 1.214 ms vs 1.971 ms for ggml | 4096 × 4096 gemv, 4 threads, ryzen 5 2500u; not end-to-end inference |
+
+<sub>results are from repository experiments, not independent evaluations. model adaptation trades off generalization across tasks: v2.1 chartqa scored 74% vs stock 80% on a 50-sample subset. see linked methodology and limitations.</sub>
+
+---
+
+## research methodology
+
+- [embodied worlds](https://github.com/yuno7777/embodied-ai/blob/main/docs/research-readiness.md) · deterministic simulation, disjoint evaluation seeds, trajectory provenance and explicit capability limits.
+- [black monolith](https://github.com/yuno7777/project-black-monolith/blob/main/EVALUATION.md) · detector calibration, deterministic regression fixtures and documented real-model failure modes.
+- [opticore](https://github.com/yuno7777/opticore/blob/main/docs/EXPERIMENTS_AND_BENCHMARKS.md) · fixed benchmark instances, independent feasibility validation and reference solver comparisons.
+
+---
+
 ## research
 
 <div align="center">
@@ -264,6 +299,14 @@ rust multi-agent execution prototype with task dags, scheduling, retries, event 
 </picture>
 
 </div>
+
+---
+
+## current research directions
+
+- how does recurrent computation change reasoning quality, latency and memory in small multimodal models?
+- which quantization and kernel optimizations improve local inference without unacceptable accuracy loss?
+- how can policies generalize across unseen environments under partial observability?
 
 ---
 
